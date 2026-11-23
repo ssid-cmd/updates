@@ -1,0 +1,7 @@
+# Put keys.txt in the SAME folder as mongoodbSetup.exe before installing.
+# Use provider=key, without quotes. Blank entries do not remove existing keys.
+# The installer preserves this file for reuse; keep it private.
+groq=gsk_
+openrouter=sk-
+gemini=
+custom=
